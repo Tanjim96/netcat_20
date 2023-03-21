@@ -1,4 +1,4 @@
-#iPhone Price Predictor
+# iPhone Price Predictor
 This is a simple project that predicts the price of an iPhone based on its version using a linear regression model. The project uses the pandas library for data manipulation and the scikit-learn library for building the linear regression model.
 
 #Description
